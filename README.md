@@ -2,7 +2,6 @@
 
 
 - :triangular_ruler: I’m currently working as User Interface Designer
-- :computer: Learning to become a Full Stack Developer 
 - :mortar_board: Learning JavaScript & Python
 - :milky_way: Able to code in CSS / HTML5
 - :gb: :es: I speak portuguese, spanish and (still improving) english
