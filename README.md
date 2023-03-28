@@ -5,7 +5,7 @@
 - :mortar_board: Learning JavaScript & Python
 - :milky_way: Able to code in CSS / HTML5
 - :gb: :es: I speak portuguese, spanish and (still improving) english
-- :headphones: Hard Rock 24 hours
+- :headphones: J-music from 80's
 
 
 - My UI Design Portfolio https://www.corberto.com/
