@@ -4,7 +4,7 @@
 - :triangular_ruler: I’m currently working as User Interface Designer
 - :mortar_board: Learning JavaScript & Python
 - :milky_way: Able to code in CSS / HTML5
-- :gb: :es: I speak portuguese, spanish and (still improving) english
+- :gb: :es: I speak Portuguese, Spanish and (still improving) English
 - :headphones: J-music from 80's
 
 
